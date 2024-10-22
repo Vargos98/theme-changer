@@ -15,7 +15,7 @@ const Login = () => {
 
   return (
     <div>
-      <h2>Login</h2>
+      {/* <h2>Login</h2>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
@@ -32,7 +32,7 @@ const Login = () => {
         />
 
         <button type="submit">Log In</button>
-      </form>
+      </form> */}
     </div>
   );
 };
